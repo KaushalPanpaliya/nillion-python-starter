@@ -26,7 +26,6 @@ def nada_main():
         Output(equal_int, "equal_output", party1)
     ]
 
-# To create the most complex program
 def complex_nada_main():
     party1 = Party(name="Party1")
     party2 = Party(name="Party2")
